@@ -1,0 +1,5 @@
+.navbar-brand a,
+.navbar-brand a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}

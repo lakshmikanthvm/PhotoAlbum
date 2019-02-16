@@ -1,0 +1,7 @@
+#root .row {
+    margin: 15px;
+}
+
+#root .row .col-md-3 {
+    margin: 10px 0;
+}
